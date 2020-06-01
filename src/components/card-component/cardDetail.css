@@ -1,0 +1,19 @@
+.card {
+  display: flex;
+  justify-content: center;
+}
+.image {
+  border-radius: 50%;
+}
+.info {
+  display: inline-block;
+  margin-left: 12px;
+}
+.name {
+  font-size: 1.25rem;
+}
+
+/* .github-profile {
+  margin: 1rem;
+  display: flex;
+} */

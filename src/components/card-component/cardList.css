@@ -1,0 +1,6 @@
+.CardList {
+  display: flex;
+  justify-content: center;
+  font-size: 300px;
+  background-color: rgb(233, 224, 222);
+}
