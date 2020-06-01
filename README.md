@@ -1,3 +1,13 @@
+## github-user-search
+I built this project using React.js, Semantic UI React, JavaScript, CSS and HTML.
+
+### Features:
+1. You can search a github user with its username.
+2. Your recently viewed profiles for the current session will be listed.
+3. Click on the user's name to visit its profile.
+
+## 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
