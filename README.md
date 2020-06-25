@@ -1,5 +1,6 @@
 ## github-user-search
 I built this project using React.js, Semantic UI React, JavaScript, CSS and HTML.
+View a live demo here: https://simranksaini.github.io/github-user-search/
 
 ### Features:
 1. You can search a github user with its username.
